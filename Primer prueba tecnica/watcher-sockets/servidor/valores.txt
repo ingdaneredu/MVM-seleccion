@@ -1,0 +1,6 @@
+nombre,valor1,valor2,valor3
+daniel,1,2,3
+victor,4,5,6
+daniela,7,8,9
+carito,7,8,9
+nuevo,5,6,7, 9
